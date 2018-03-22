@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App bar color of the app -->
+    <color name="primary_color">#006064</color>
+
+    <!-- Status bar color of the app -->
+    <color name="primary_dark_color">#2962FF</color>
+
+    <!-- Background color for app -->
+    <color name="background_color">#7C4DFF</color>
+
+    <!-- Background color for the restaurants list_item list -->
+    <color name="restaurants">#880E4F</color>
+
+    <!-- Background color for the museums_item list -->
+    <color name="museums">#D50000</color>
+
+    <!-- Background color for the parks list_item list -->
+    <color name="parks">#009688</color>
+
+    <!-- Background color for the architecture list_item list -->
+    <color name="architecture">#00695C</color>
+
+    <!-- Text color for the list_item list -->
+    <color name="list_item_color">#FFF7DA</color>
+</resources>

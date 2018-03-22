@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Bucharest Tour Guide</string>
+    <string name="attraction_icon">Attraction_icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    //Category Strings
+    <string name="architecture">Best Off</string>
+    <string name="museums">Museums</string>
+    <string name="parks">Parks</string>
+    <string name="food">Food</string>
+
+    //Locations Strings
+    <string name="palace_of_parliament">Palace Of The Parliament</string>
+    <string name="palace_of_parliament_description">The Palace of The Parliament is the main attraction of Bucharest.</string>
+    <string name="romanian_athenaeum">Romanian Athenaeum</string>
+    <string name="romanian_athenaeum_description">Athenaeum is the symbol of Bucharest and it surely is an architectural gem.</string>
+    <string name="national_bank">National Bank Of Romania</string>
+    <string name="national_bank_description">Is one of the most imposing and massive bank edifices in Romania, nowadays a historic and a art monument.</string>
+    <string name="arch">Arch Of Triumph</string>
+    <string name="arch_description">Arch of Triumph is another reason why Bucharest deserves its entitling of “Little Paris”.</string>
+    <string name="km0">KM 0</string>
+    <string name="km0_description">In front of the National Theatre, is situated a symbolic and deferential monument for the revolution from ’89.</string>
+    <string name="old_town">Old Town</string>
+    <string name="old_town_description">The Old Town part of Bucharest, also called Lipscani, before the birth of the city, was a commercial center full of life.</string>
+
+    <string name="history_museum">National History Museum Of Romania</string>
+    <string name="history_museum_description">Considered the most important museum of the Romanian state, it has gone recently through a wide process of renewal.</string>
+    <string name="antipa">National Museum Of Natural History</string>
+    <string name="antipa_description">Over 2 million zoological, paleontological, geological and world ethnography pieces.</string>
+    <string name="village">Village Museum</string>
+    <string name="village_description">National Village Museum is one of the first ethnographic museum in the world.</string>
+    <string name="peasant">The Museum of the Romanian Peasant</string>
+    <string name="peasant_description">It is one of the most original expositions of cultural art and traditional objects not only from Romania, but from the entire Europe.</string>
+    <string name="geology">National Museum Of Geology</string>
+    <string name="geology_description">King Carol the 1st founded in 1906 one of the most beautiful museum of Earth Science from the east-central part of Europe.</string>
+
+    <string name="herastrau">Herastrau Park</string>
+    <string name="herastrau_description">Herastrau Park is the biggest park of Bucharest.</string>
+    <string name="cismigiu">Cismigiu Park</string>
+    <string name="cismigiu_description">the Garden of Cismigiu is the oldest public garden from Bucharest and it is located in the city center.</string>
+    <string name="opera">Opera Park</string>
+    <string name="opera_description">Turn right after you get out from the Opera and relax a few minutes in the small park from here.</string>
+    <string name="kiseleff">Kiseleff Park</string>
+    <string name="kiseleff_description">Park Kiseleff, with Russian resonance was designed and named after the Russian brisk general Pavel Dmitrievici Kiseliov.</string>
+    <string name="ior">IOR Park</string>
+    <string name="ior_description">IOR Park is one of the biggest eastern parks and it is a must see place in Bucharest.</string>
+
+
+    <string name="manuc">Hanul lui Manuc</string>
+    <string name="manuc_description">The last caravanserai in South Eastern Europe</string>
+    <string name="caru">Caru\' cu bere</string>
+    <string name="caru_description">The place itself is very beautiful, nice location, old space. Staff are in trational dress. Building is an old church.</string>
+    <string name="artist">The Artist</string>
+    <string name="artist_description">Fine dining remains something of a novelty concept in Bucharest, but elegantly understated The Artist.</string>
+    <string name="beca">Beca\’s Kitchen</string>
+    <string name="beca_description">Home-style cooking doesn’t come much better than at Beca’s Kitchen, a little family-run restaurant.</string>
+    <string name="pukka"> Pukka Tukka</string>
+    <string name="pukka_description">The location isn’t the most exciting but that shouldn’t dissuade anyone from venturing to Pukka Tukka, a super organic food bar. </string>
+
+</resources>
+
